@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+}
+
+h1,
+h2,
+h3,
+p {
+  font-family: "Verdana";
+  text-align: center;
+  font-weight: normal;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+}
+
+h2 {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+h3 {
+  color: grey;
+  font-size: 21px;
+}
+
+a {
+  color: aquamarine;
+  pointer-events:none;
+  text-decoration: underline;
+  font-size: 21px;
+}
+
+
+#copyright {
+  text-align:right;
+}
